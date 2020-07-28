@@ -20,11 +20,11 @@ export default {
   */
   head: {
     script: [
-      { src: "nuxt-hexschool-demo-app/js/jquery.min.js", body: true },
-      { src: "nuxt-hexschool-demo-app/js/browser.min.js", body: true },
-      { src: "nuxt-hexschool-demo-app/js/breakpoints.min.js", body: true },
-      { src: "nuxt-hexschool-demo-app/js/util.js", body: true },
-      { src: "nuxt-hexschool-demo-app/js/main.js", body: true }
+      { src: "/nuxt-hexschool-demo-app/js/jquery.min.js", body: true },
+      { src: "/nuxt-hexschool-demo-app/js/browser.min.js", body: true },
+      { src: "/nuxt-hexschool-demo-app/js/breakpoints.min.js", body: true },
+      { src: "/nuxt-hexschool-demo-app/js/util.js", body: true },
+      { src: "/nuxt-hexschool-demo-app/js/main.js", body: true }
     ]
   },
 
